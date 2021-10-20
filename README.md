@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rubs24
+- 👋 Hi, I’m @Rubs24 ( Ruben Mendoza Jr. )
 - 👀 I’m interested in Python, Java, WebDev
 - 🌱 I’m currently learning python with MS SQL
 - 💞️ I’m looking to collaborate on ???
